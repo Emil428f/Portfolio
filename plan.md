@@ -22,6 +22,7 @@ author_profile: true
   - Teori og praksis
   
     Den studerende kender til koncepterne bag alle tre fokuser.
+    
     Den studerende har en almen forståelse på begreberne brugt inden for disse fokuser.
     
     
