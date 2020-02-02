@@ -8,7 +8,9 @@ author_profile: true
 
 <p>
   - Applikationssikkerhed
+  
   - Data sikkerhed
+  
   - Database- og infrastrukturs sikkerhed
 </p>
 
