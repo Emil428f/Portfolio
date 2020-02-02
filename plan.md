@@ -19,17 +19,25 @@ author_profile: true
   
 </p>
 
+| Applikationssikkerhed | Viden | Færdigheder | Kompetencer |
+|-------|--------|---------|---------|
+| ambrosia | gala | red delicious |a|
+| pink lady | jazz | macintosh |a|
+| honeycrisp | granny smith | fuji |a|
+
+
+
 <h5>Viden</h5>
 
 <p>
   
   _Teori og praksis_
   
-    Den studerende kender til koncepterne bag alle tre fokusområder.
+    Jeg skal kunne forstå det fundamentale bag de tre overordnet fokusrområder.
     
-    Den studerende har en almen forståelse på begreberne brugt inden for disse fokusområder.
+    Jeg skal have en almen forståelse på begreber inden for de tre fokusområder.
     
-    Den studerende ved hvordan disse fokusområder bliver anvendt inden for en IT relevant sammenhæng.
+    Jeg skal kunne
     
   _Færdigheder_
   
@@ -37,7 +45,7 @@ author_profile: true
     
     Den studerende kan argumentere for brugen af deres fokusområder i en IT sammenhæng.
     
-    Den studerende
+    Den studerende kan selv finde resourcer til at understøtte eller udvide deres viden om et emne.
     
   _Kompetencer_
   
