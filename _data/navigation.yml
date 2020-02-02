@@ -2,10 +2,10 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://emil428f.github.io/Portfolio/about/
    - title: "Posts"
      url: /year-archive/
+   - title: "About"
+     url: https://emil428f.github.io/Portfolio/about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
