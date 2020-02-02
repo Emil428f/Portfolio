@@ -10,6 +10,12 @@ author_profile: true
   
   - Applikationssikkerhed
   
+  | Viden | Færdigheder | Kompetencer |
+|-------|--------|---------|
+| At undersøge begreberne som bliver brugt | At kunne omdanne den viden til brug i projektet | At kunne forstå sammenhængen mellem teori og praksis inden for det fundamentale i fokusområderne |
+| At kunne danne overblik over hvordan det virker | red delicious | a |
+| At kunne lave | macintosh |a|
+| granny smith | fuji | a |
   
   - Data sikkerhed
   
@@ -19,12 +25,7 @@ author_profile: true
   
 </p>
 
-| Viden | Færdigheder | Kompetencer |
-|-------|--------|---------|
-| At undersøge begreberne som bliver brugt | At kunne omdanne den viden til brug i projektet | At kunne forstå sammenhængen mellem teori og praksis inden for det fundamentale i fokusområderne |
-| At kunne danne overblik over hvordan det virker | red delicious | a |
-| At kunne lave | macintosh |a|
-| granny smith | fuji | a |
+
 
 
 
