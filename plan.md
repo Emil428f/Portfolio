@@ -1,21 +1,16 @@
 ---
 author_profile: true
 ---
+<h1>Læringsplan for første cyklus</h1>
 
-<h1>Cyber Security</h1>
+<h2>Cyber Security</h2>
 
 <h3>Fokuser</h3>
 
 <p>
   
-  - Applikationssikkerhed
+  ** - Applikationssikkerhed **
   
-  | Viden | Færdigheder | Kompetencer |
-|-------|--------|---------|
-| At undersøge begreberne som bliver brugt | At kunne omdanne den viden til brug i projektet | At kunne forstå sammenhængen mellem teori og praksis inden for det fundamentale i fokusområderne |
-| At kunne danne overblik over hvordan det virker | red delicious | a |
-| At kunne lave | macintosh |a|
-| granny smith | fuji | a |
   
   - Data sikkerhed
   
@@ -25,7 +20,13 @@ author_profile: true
   
 </p>
 
+| Viden | Færdigheder | Kompetencer |
+|-------|--------|---------|
+| At undersøge begreberne som bliver brugt | At kunne omdanne den viden til brug i projektet | At kunne forstå sammenhængen mellem teori og praksis inden for det fundamentale i fokusområderne |
 
+| At kunne danne overblik over hvordan det virker | At kunne  | a |
+| At kunne lave | macintosh |a|
+| granny smith | fuji | a |
 
 
 
