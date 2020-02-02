@@ -13,11 +13,11 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Portfolio"
+title                    : "Portefølje"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Emil Jürgensen"
-description              : "My portfolio"
+description              : "Mit portefølje"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ author:
   name             : "Emil Jürgensen"
   avatar           : "/assets/images/idiot.jpg"
   bio              : ""
-  location         : "Odense, Denmark"
+  location         : "Odense, Danmark"
   email            :
   links:
     - label: "Email"
