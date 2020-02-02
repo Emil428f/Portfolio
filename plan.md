@@ -19,7 +19,7 @@ author_profile: true
 
 <p>
   
-  - Teori og praksis
+  _Teori og praksis
   
     Den studerende kender til koncepterne bag alle tre fokuser.
     
