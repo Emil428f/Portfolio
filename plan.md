@@ -5,57 +5,57 @@ author_profile: true
 
 # <h2>Cyber Security</h2>
 
-<h3>Fokuser</h3>
+# <h3>Fokuser</h3>
 
-<p>
+# <p>
   
-  - __Applikationssikkerhed__
-  
-  
-  - Data sikkerhed
+#  - __Applikationssikkerhed__
   
   
-  - Database- og infrastrukturs sikkerhed
+#  - Data sikkerhed
   
   
-</p>
+#  - Database- og infrastrukturs sikkerhed
+  
+  
+# </p>
 
-| Viden | Færdigheder | Kompetencer |
-|-------|--------|---------|
-| At undersøge begreberne som bliver brugt | At kunne omdanne den viden til brug i projektet | At kunne forstå sammenhængen mellem teori og praksis inden for det fundamentale i fokusområderne |
+# | Viden | Færdigheder | Kompetencer |
+# |-------|--------|---------|
+# | At undersøge begreberne som bliver brugt | At kunne omdanne den viden til brug i projektet | At kunne forstå sammenhængen mellem teori og praksis inden for det fundamentale i fokusområderne |
 
-| At kunne danne overblik over hvordan det virker | At kunne  | a |
-| At kunne lave | macintosh |a|
-| granny smith | fuji | a |
+# | At kunne danne overblik over hvordan det virker | At kunne  | a |
+# | At kunne lave | macintosh |a|
+# | granny smith | fuji | a |
 
 
 
-<h5>Viden</h5>
+# <h5>Viden</h5>
 
-<p>
+# <p>
   
-  _Teori og praksis_
+#   _Teori og praksis_
   
-    Jeg skal kunne forstå det fundamentale bag de tre overordnet fokusrområder.
+#     Jeg skal kunne forstå det fundamentale bag de tre overordnet fokusrområder.
     
-    Jeg skal have en almen forståelse på begreber inden for de tre fokusområder.
+#     Jeg skal have en almen forståelse på begreber inden for de tre fokusområder.
     
-    Jeg skal kunne
+#     Jeg skal kunne
     
-  _Færdigheder_
+#   _Færdigheder_
   
-    Den studerende kan anvende deres viden i forbindelse med deres projekt.
+#     Den studerende kan anvende deres viden i forbindelse med deres projekt.
     
-    Den studerende kan argumentere for brugen af deres fokusområder i en IT sammenhæng.
+#     Den studerende kan argumentere for brugen af deres fokusområder i en IT sammenhæng.
     
-    Den studerende kan selv finde resourcer til at understøtte eller udvide deres viden om et emne.
+#     Den studerende kan selv finde resourcer til at understøtte eller udvide deres viden om et emne.
     
-  _Kompetencer_
+#   _Kompetencer_
   
     
     
     
-</p>
+# </p>
 
 
 <h1>DevOps</h1>
