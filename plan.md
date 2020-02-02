@@ -3,7 +3,7 @@ author_profile: true
 ---
 <h1>Læringsplan for første cyklus</h1>
 
-<h2>Cyber Security</h2>
+# <h2>Cyber Security</h2>
 
 <h3>Fokuser</h3>
 
