@@ -2,15 +2,15 @@
 author_profile: true
 ---
 
-<h1>   Cyber Security</h1>
+<h1>  Cyber Security</h1>
 
 <p>
-      - Something
+    - Something
 </p>
 
 
-<h1>   DevOps</h1>
+<h1>  DevOps</h1>
 
 <p>
-      - Something
+    - Something
 </p>
