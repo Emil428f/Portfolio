@@ -10,9 +10,13 @@ author_profile: true
   
   - Applikationssikkerhed
   
+  
   - Data sikkerhed
   
+  
   - Database- og infrastrukturs sikkerhed
+  
+  
 </p>
 
 <h5>Viden</h5>
