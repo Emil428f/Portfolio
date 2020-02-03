@@ -4,6 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   #- title: "Posts"
   #  url: /year-archive/
+   - title: "Kalender"
+     url: https://emil428f.github.io/Portfolio/calendar/
    - title: "Læringsmål"
      url: https://emil428f.github.io/Portfolio/plan/
    - title: "Om mig"
