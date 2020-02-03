@@ -1,4 +1,5 @@
 ---
+layout: archive
 author_profile: true
 ---
 <h1>Læringsplan for første cyklus</h1>
