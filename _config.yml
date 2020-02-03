@@ -284,10 +284,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archieve
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _events
