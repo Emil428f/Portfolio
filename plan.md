@@ -17,6 +17,6 @@ author_profile: true
 | Viden | Færdigheder | Kompetencer |
 |-------|--------     |---------    |
 | At have en fundamental forståelse på app sikkerhed | At kunne konvertere viden til et produkt | At kunne forstå sammenhængen mellem teori og praksis |
-| At kunne de mest fundamentale begreber | At kunne bruger disse begreber i projektet | at kunne forklare disse begreber i Larmens termer |
+| At kunne de mest fundamentale begreber | At kunne bruger disse begreber i projektet | at kunne forklare disse begreber for andre |
 | At vide noget om forskellige former for app sikkerhed | at kunne vælge mellem forskellige teknologier | at kunne argumentere for valget mellem en teknologi fremfor en anden |
 
