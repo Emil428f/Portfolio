@@ -290,3 +290,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _events
+  - collections:
+      events:
+      output: true
+      permalink: /events/:path/
+    title: Events
