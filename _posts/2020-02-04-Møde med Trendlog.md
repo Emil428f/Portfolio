@@ -12,4 +12,5 @@ tags: [Trendlog, Møde]
 <h4>Beskrivelse:</h4>
 
 <p>Efter et møde med vores product owner hos Trendlog, har vores gruppe fået en bedre forståelse af hvad der er forventet af os.
+  
 Der er blevet aftalt at lave en product udviklings plan.</p>
