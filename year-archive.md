@@ -1,3 +1,3 @@
 ---
-layout: archive-taxonomy
+layout: categories
 ---
