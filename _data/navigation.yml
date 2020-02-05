@@ -2,7 +2,7 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Category-Tags"
+   - title: "Category"
      url: ttps://emil428f.github.io/Portfolio/category/
    - title: "Posts"
      url: /year-archive/
