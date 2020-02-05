@@ -1,3 +1,3 @@
 ---
-layout: taxonomy
+layout: archive-taxonomy
 ---
