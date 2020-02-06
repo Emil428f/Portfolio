@@ -1,5 +1,6 @@
 ---
 layout: posts
+classes: wide
 author: Emil
 categories: [Kursus]
 tags: [Cybersikkerhed]
