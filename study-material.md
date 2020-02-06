@@ -9,13 +9,13 @@ author_profile: true
 | Dato | Materiale | Format | Varighed | Beskrivelse | Gennemført |
 |-------|-------|--------|---------|---------|---------|
 | 06.02.2020 | DevOps Fundamental | Video | 2h 53m | DevOps introduktion med fokus på arkitektur automatisering, "continious delivery" og "reliabity engineering". |  |
-|  |  |  |  |  |
+|  |  |  |  |  |  |
 
 <h2>IT-sikkerhed</h2>
 
 <h3>Applikationssikkerhed</h3>
 
-| Materiale | Format | Varighed | Beskrivelse | Gennemført |
-|-------|--------|---------|---------|---------|
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Dato | Materiale | Format | Varighed | Beskrivelse | Gennemført |
+|-------|--------|---------|---------|---------|---------|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
