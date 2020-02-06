@@ -17,5 +17,5 @@ author_profile: true
 
 | Dato | Materiale | Format | Varighed | Beskrivelse | Gennemført | Tvivler |
 |-------|--------|---------|---------|---------|---------|---------|
-| ??-??-2020 | Cyber Security Fundamentals | Video | 2h 26m | "Mitigate risks using various cybersecurity frameworks and control standards". "how to detect hidden and cloaked files, evaluate and avoid threats such as malware, architect security to align with business needs" |  |  |
+| ??-??-2020 | Cyber Security Fundamentals | Video | 2h 26m | "Mitigate risks using various cybersecurity frameworks and control standards". <br> "how to detect hidden and cloaked files, evaluate and avoid threats such as malware, architect security to align with business needs" |  |  |
 |  |  |  |  |  |  |  |
