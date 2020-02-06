@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 ---
-<h1>Læringsplan for første cyklus</h1>
+<h1>Læringsmateriale</h1>
 
 <h2>DevOps</h2>
 
