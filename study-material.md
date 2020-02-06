@@ -17,5 +17,7 @@ author_profile: true
 
 | Dato | Materiale | Format | Varighed | Beskrivelse | Gennemført | Tvivler |
 |-------|--------|---------|---------|---------|---------|---------|
-| ??-??-2020 | Cyber Security Fundamentals | Video | 2h 26m | NIST, COBIT 5, ISO 27000, and the Payment Card Industry Data Security Standard (PCI DSS) |  |  |
+| ??-??-2020 | Cyber Security Fundamentals | Video | 2h 26m | "Mitigate risks using various cybersecurity frameworks and control standards".
+
+"how to detect hidden and cloaked files, evaluate and avoid threats such as malware, architect security to align with business needs" |  |  |
 |  |  |  |  |  |  |  |
