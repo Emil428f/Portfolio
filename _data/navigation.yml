@@ -10,6 +10,8 @@ main:
      url: https://emil428f.github.io/Portfolio/calendar/
    - title: "Læringsmål"
      url: https://emil428f.github.io/Portfolio/plan/
+   - title: "Læringsplan"
+     url: https://emil428f.github.io/Portfolio/studyplan/
    - title: "Om mig"
      url: https://emil428f.github.io/Portfolio/about/
   # - title: "Sample Collections"
