@@ -1,6 +1,7 @@
 ---
 layout: archive
 author_profile: true
+classes: wide
 ---
 <h1>Læringsmateriale</h1>
 
