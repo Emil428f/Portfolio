@@ -4,7 +4,7 @@ author: Emil
 categories: [Systemudvikling]
 tags: [Trendlog, Møde]
 ---
-<h3>Dato: 02-04-2020</h3>
+<h3>Dato: 04-02-2020</h3>
 
 <h4>Emne: Møde med PO for at uddybe vores produkt scope.</h4>
 
