@@ -4,12 +4,11 @@ author: Emil
 categories: [Oversigt]
 tags: [DevOps, Cybersecurity]
 ---
+<h3>Dato: 02-10-2020</h3>
 
-<h3>Emne: Lærings oversigt</h3>
+<h4>Emne: Lærings oversigt</h4>
 
-<h5>Dato: 02-10-2020</h5>
-
-<h4>DevOps</h4>
+<h5>DevOps</h5>
 
 <p>
 DevOps er en sammentrækning af "Development" og "Operations", hvis fokus er på at sikre en konstant udvikling og kvalitetssikring af et produkt eller en service.
