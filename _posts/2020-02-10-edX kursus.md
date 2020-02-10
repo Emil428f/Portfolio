@@ -4,12 +4,11 @@ author: Emil
 categories: [IT-sikkerhed]
 tags: [Kursus]
 ---
+<h3>Dato: 02-10-2020</h3>
 
-<h3>Emne: Certificeret kursus i cybersecurity.</h3>
+<h4>Emne: Certificeret kursus i cybersecurity.</h4>
 
-<h5>Dato: 02-10-2020</h5>
-
-<h4>Beskrivelse:</h4>
+<h5>Beskrivelse:</h5>
 
 <p>
 Jeg har i den sidste uge været igang med DevOps på LinkedIn Learning. 
