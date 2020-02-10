@@ -4,7 +4,7 @@ author: Emil
 categories: [Oversigt]
 tags: [DevOps, Cybersecurity]
 ---
-<h3>Dato: 02-10-2020</h3>
+<h3>Dato: 10-02-2020</h3>
 
 <h4>Emne: Lærings oversigt</h4>
 
