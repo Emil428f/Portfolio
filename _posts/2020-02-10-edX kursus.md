@@ -4,7 +4,7 @@ author: Emil
 categories: [IT-sikkerhed]
 tags: [Kursus]
 ---
-<h3>Dato: 02-10-2020</h3>
+<h3>Dato: 10-02-2020</h3>
 
 <h4>Emne: Certificeret kursus i cybersecurity.</h4>
 
