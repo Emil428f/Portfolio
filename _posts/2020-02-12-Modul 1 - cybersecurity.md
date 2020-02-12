@@ -14,4 +14,4 @@ Der blev gennemgået en kort historie om it sikkerhed fra 90erne og fremad.
 
 Nogle basiske koncepter, som trudsel spektrum og en del om hvad man kan forvente inden for IT-sikkerheds verdenen.
 
-![image](/assets/images/første modul, it-sikkerhed.png)
+![image](/assets/images/cybersecurity.module1.png)
