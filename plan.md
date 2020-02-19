@@ -16,7 +16,7 @@ author_profile: true
 
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
-| Jeg skal kunne kort forklare hvorfor IT-sikkerhed er et vigtigt emne og eventuelle konsekvenser ved at ignorere det. | Jeg researher emnet ved brug af LinkedIn Learning og edX. | Jeg skal kunne gå mere i detaljer om  |
+| Jeg skal kunne kort beskrive vigtigheden af at have inkluderet IT-sikkerhed i et projekt. | Jeg researcher emnet ved bruge af online resurser som LinkedIn Learning og edX.  | Jeg skal kunne give eksempler på konsekvenser ved at ignorere IT-sikkerhedsdelen af et projekt. |
 | Jeg skal have valgt et område inden for IT-sikkerhed at fokusere på. | Ved brug af online resurser skal jeg kunne argumentere for mit valg af fokusområde. | Jeg skal kunne beskrive mit valgte fokusområde. |
 |  |  |  |
 
