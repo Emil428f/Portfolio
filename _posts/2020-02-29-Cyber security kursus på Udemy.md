@@ -14,3 +14,5 @@ Jeg har fået installeret Kali Linux på min bærbar og regner med at lave noget
 Lige nu er jeg i gang med et 15 timers kursus om Cybersecurity.
 
 Fra på Mandag af begynder Mike og jeg med at arbejde med Kubernetes i forbindelse med DevOps.
+
+![](../assets/images/security model.png)
