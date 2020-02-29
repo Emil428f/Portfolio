@@ -15,4 +15,4 @@ Lige nu er jeg i gang med et 15 timers kursus om Cybersecurity.
 
 Fra på Mandag af begynder Mike og jeg med at arbejde med Kubernetes i forbindelse med DevOps.
 
-![]({{ https://emil428f.github.io/Portfolio }}/assets/images/securitymodel.png)
+![](https://emil428f.github.io/Portfolio/assets/images/securitymodel.png)
