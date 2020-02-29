@@ -9,17 +9,19 @@ author_profile: true
 
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
-| Jeg skal kunne kort beskrive hvad DevOps er. | Jeg researcher DevOps på internettet (LinkedIn Learning / edX) | Jeg skal kunne forklare hvordan DevOps bringer værdi til en virksomhed. |
-|  |  |  |
-
+| At forstå hvad DevOps er. |  |  |
+| At forstå hvordan DevOps virker. |  |  |
+| At forstå forbindelsen mellem DevOps og Cloud |  |  |
+| At forstå hvad Automation er, i forbindelse med DevOps |  |  |
 
 <h2>IT-sikkerhed</h2>
 
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
-| Jeg skal kunne kort beskrive vigtigheden af at have inkluderet IT-sikkerhed i et projekt. | Jeg researcher emnet ved bruge af online resurser som LinkedIn Learning og edX.  | Jeg skal kunne give eksempler på konsekvenser ved at ignorere IT-sikkerhedsdelen af et projekt. |
-| Jeg skal have valgt et område inden for IT-sikkerhed at fokusere på. | Ved brug af online resurser skal jeg kunne argumentere for mit valg af fokusområde. | Jeg skal kunne beskrive mit valgte fokusområde. |
-|  |  |  |
+| Lær om hvordan man bedst vælger den bedste løsning for en trudsel |  | At kunne forklare hvordan man bedst tager den mest optimale beslutning vedrørende et systemssikkerhed. |
+| Lær om trudsels modellering  |  | At kunne forklare trudselsmodelering |
+| Lær om risiko vurdering |  | At kunne forklare risiko vurdering |
+| Lær om sikkerhedsattributter |  | At kunne forklare hvad sikkerhedsattributter er |
 
 
 
@@ -39,3 +41,5 @@ author_profile: true
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
 | Jeg skal have bestået mit kursus på Udemy |  | Hele kurset skal være gennemgået. |
+| At eventuelt lave noget penetration testing |  |  |
+| At lave en sikker forbindelse mellem en app og en backend (Encryption) |  |  |
