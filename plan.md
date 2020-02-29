@@ -38,3 +38,4 @@ author_profile: true
 
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
+| Jeg skal have bestået mit kursus på Udemy |  | Hele kurset skal være gennemgået. |
