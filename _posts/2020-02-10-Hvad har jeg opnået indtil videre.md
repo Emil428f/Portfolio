@@ -2,7 +2,7 @@
 layout: posts
 author: Emil
 categories: [Oversigt]
-tags: [DevOps, Cybersecurity]
+tags: [DevOps, IT-Sikkerhed]
 ---
 <h3>Dato: 10-02-2020</h3>
 
