@@ -1,7 +1,7 @@
 ---
 layout: posts
 author: Emil
-categories: [IT-sikkerhed]
+categories: [IT-Sikkerhed]
 tags: [Kursus]
 ---
 <h3>Dato: 10-02-2020</h3>
