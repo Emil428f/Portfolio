@@ -31,15 +31,17 @@ author_profile: true
 
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
-| Jeg skal kunne forstå, udrulle og bruge Kubernetes | Jeg tager et kursus på udemy | Jeg skal have gennemført kurset og bestået det. |
-| Jeg skal kunne kører containers i Kubernetes | Jeg følger mit kursus på udemy | Jeg skal have gennemført kurset og bestået det. |
-|  |  |  |
+| Jeg skal kunne forstå, udrulle og bruge Kubernetes |  | Jeg skal have et funktionelt Kubernetes cluster op og køre på Fedora Linux. |
+| Jeg skal kunne udrulle en 'containerized' app i mit kubernetes kluster.  |  | Appen skal virke fra mit kubernetes kluster. |
+| Jeg skal have gennemført mit kubernetes kursus. |  |  |  |
 
 
 <h2>IT-sikkerhed</h2>
 
 | Mål | Teknik / Værktøj | Kriterier | Evaluering |
 |-------|--------|---------|---------|
-| Jeg skal have bestået mit kursus på Udemy |  | Hele kurset skal være gennemgået. |
-| At eventuelt lave noget penetration testing |  |  |
-| At lave en sikker forbindelse mellem en app og en backend (Encryption) |  |  |
+| Jeg skal kunne forstå trudselsmodellering. |  |  |
+| Jeg skal kunne lave en trudselsmodel for vores projekt. |  |  |  |
+| Jeg skal have gennemgået første del af mit cybersecurity kursus. |  |  |  |
+| **Pending** At lave en sikker forbindelse mellem en app og en backend (Encryption) |  |  |
+|  |  |  |  |
