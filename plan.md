@@ -8,11 +8,11 @@ author_profile: true
 <h2>DevOps</h2>
 
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
-|-------|--------|---------|---------|
-| At forstå hvad DevOps er. |  |  |
-| At forstå hvordan DevOps virker. |  |  |
-| At forstå forbindelsen mellem DevOps og Cloud |  |  |
-| At forstå hvad Automation er, i forbindelse med DevOps |  |  |
+|-------|--------|---------|---------|---------|
+| At forstå hvad DevOps er. |  |  |  |
+| At forstå hvordan DevOps virker. |  |  |  |
+| At forstå forbindelsen mellem DevOps og Cloud |  |  |  |
+| At forstå hvad Automation er, i forbindelse med DevOps |  |  |  |
 
 <h2>IT-sikkerhed</h2>
 
