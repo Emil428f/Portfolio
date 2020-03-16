@@ -21,4 +21,4 @@ classes: wide
 |-------|--------|---------|---------|---------|---------|---------|
 | ??-??-2020 | Cyber Security Fundamentals | Video | 2h 26m | "Mitigate risks using various cybersecurity frameworks and control standards". <br><br> "How to detect hidden and cloaked files, evaluate and avoid threats such as malware, architect security to align with business needs" |  |  |
 | ??-??-2020 | Introduction to Cybersecurity | Kursus | 4 uger | Introduktions kursus til cybersecurity hos Edx. |  |  |
-| ??-??-2020 | StationX.net Cybersecurity | Kursus | 50t | Dybdegående kursus lige fra trudselsmodellering til End Point beskyttelse.  |  |  |
+| ??-??-2020 | StationX.net Cybersecurity | Kursus | 50h | Dybdegående kursus lige fra trudselsmodellering til End Point beskyttelse.  |  |  |
