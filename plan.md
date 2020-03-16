@@ -17,7 +17,7 @@ author_profile: true
 <h2>IT-sikkerhed</h2>
 
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
-|-------|--------|---------|---------|---------|
+|--------|--------|---------|---------|---------|
 | Lær om hvordan man bedst vælger den bedste løsning for en trudsel |  | At kunne forklare hvordan man bedst tager den mest optimale beslutning vedrørende et systemssikkerhed. |  |
 | Lær om trudsels modellering  |  | At kunne forklare trudselsmodelering |  |
 | Lær om risiko vurdering |  | At kunne forklare risiko vurdering |  |
