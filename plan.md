@@ -39,8 +39,8 @@ author_profile: true
 <h2>IT-sikkerhed</h2>
 
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
-|-------|--------|---------|---------|
-| Jeg skal kunne forstå trudselsmodellering. |  |  |  |
+|-------|--------|---------|---------|---------|
+| Jeg skal kunne forstå trudselsmodellering. |  |  |  |  |
 | Jeg skal kunne lave en trudselsmodel for vores projekt. |  |  |  |  |
 | Jeg skal have gennemgået første del af mit cybersecurity kursus. |  |  |  |  |
 | **Pending** At lave en sikker forbindelse mellem en app og en backend (Encryption) |  |  |  |
