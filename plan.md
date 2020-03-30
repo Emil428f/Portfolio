@@ -33,15 +33,15 @@ author_profile: true
 |-------|--------|---------|---------|---------|
 | Jeg skal kunne forstå, udrulle og bruge Kubernetes |  | Jeg skal have et funktionelt Kubernetes cluster op og køre på Fedora Linux. |  |
 | Jeg skal kunne udrulle en 'containerized' app i mit kubernetes kluster.  |  | Appen skal virke fra mit kubernetes kluster. |  |
-| Jeg skal have gennemført mit kubernetes kursus. |  |  |  |  |
-|  |  |  |  |  |
+| Jeg skal have lavet microservices i mit cluster og sat sammen til en samlet funktionel app. |  | Appen skal kunne køre localt |  |  |
+| Jeg skal have udvidet min lokale app til at kunne tilgås online |  |  |  |  |
 
 <h2>IT-sikkerhed</h2>
 
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
 |-------|--------|---------|---------|---------|
-| Jeg skal kunne forstå trudselsmodellering. |  |  |  |  |
+| Jeg skal kunne forstå trudselsmodellering. |  | Jeg skal kunne forklare hvad en trudselsmodel er og hvordan den virker. |  |  |
 | Jeg skal kunne lave en trudselsmodel for vores projekt. |  |  |  |  |
-| Jeg skal have gennemgået første del af mit cybersecurity kursus. |  |  |  |  |
-| **Pending** At lave en sikker forbindelse mellem en app og en backend (Encryption) |  |  |  |
+| Jeg skal have samlet en guide for ... |  |  |  |  |
+| Jeg skal have sat SSL stripping op på Kali |  | Jeg skal kunne opfange dataen mellem to clienter. |  |
 |  |  |  |  |  |
