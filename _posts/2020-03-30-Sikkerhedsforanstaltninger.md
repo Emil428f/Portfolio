@@ -39,7 +39,6 @@ Dette betyder derfor også at hvis et angreb finder sted, vil virusen også have
 Løsningen for dette er at køre med et fler-konto setup, at have en administrator konto kun til installering af programmer og have en almindelig konto til brug af computeren.
 
 Dette er hvad man kalder en *reducering af trudsels privilegdet* og er sagt til at kunne reducere angreb på Windows maskiner med op til 77%
-
 [Dokumentation](https://www.beyondtrust.com/resources/whitepapers/microsoft-vulnerability-report).
 
 Mennesket er og vil altid være det svageste led i et hvilket som helst system som kræver menneskelig interaktion. Derfor er det af allerhøjeste vigtighed at lære folk hvordan man bedst sikre sig selv og andre omkring sig.
