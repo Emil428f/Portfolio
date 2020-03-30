@@ -43,5 +43,5 @@ author_profile: true
 | Jeg skal kunne forstå trudselsmodellering. |  | Jeg skal kunne forklare hvad en trudselsmodel er og hvordan den virker. |  |  |
 | Jeg skal kunne lave en trudselsmodel for vores projekt. |  |  |  |  |
 | Jeg skal have samlet en guide for ... |  |  |  |  |
-| Jeg skal have sat SSL stripping op på Kali |  | Jeg skal kunne opfange dataen mellem to clienter. |  |
+| Jeg skal have sat SSL stripping op på Kali | Kali Linux / Fedora Linux | Jeg skal kunne opfange dataen mellem to clienter. |  |
 |  |  |  |  |  |
