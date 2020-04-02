@@ -42,6 +42,8 @@ author_profile: true
 |-------|--------|---------|---------|---------|
 | Jeg skal kunne forstå trudselsmodellering. |  | Jeg skal kunne forklare hvad en trudselsmodel er og hvordan den virker. |  |  |
 | Jeg skal kunne lave en trudselsmodel for vores projekt. |  |  |  |  |
-| Jeg skal have samlet en guide for ... |  |  |  |  |
-| Jeg skal have sat SSL stripping op på Kali | Kali Linux / Fedora Linux | Jeg skal kunne opfange dataen mellem to clienter. |  |
+| Jeg skal kunne forklare hvorfor det er vigtigt at lave en trudselsmodel |  |  |  |  |
+| Jeg skal have samlet en guide for basiske it-sikkerheds foranstaltninger |  | Den skal indeholde trudselsmodellering, tillidsdelegering, sikkerheds sårbarheder, kryptering, isolering og 'compartmentalization' |  |  |
+| Jeg skal kunne udnytte forskellige services til at finde sårbarheder | Shodan, CVEdetails |  |  |
+| Jeg skal kunne sætte en SSL stripping op. | Kali Linux / Fedora | Jeg skal kunne lytte med på forbindelsen mellem de to enheder. | Vores virksomhed gør brug af SSL certifikater. |  |
 |  |  |  |  |  |
