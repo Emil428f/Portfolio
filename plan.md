@@ -47,3 +47,20 @@ author_profile: true
 | Jeg skal kunne udnytte forskellige services til at finde sårbarheder | Shodan, CVEdetails |  |  |
 | Jeg skal kunne sætte en SSL stripping op. | Kali Linux / Fedora | Jeg skal kunne lytte med på forbindelsen mellem de to enheder. | Vores virksomhed gør brug af SSL certifikater. |  |
 |  |  |  |  |  |
+
+
+
+
+<h1>Læringsplan for andet cyklus</h1>
+
+<h2>DevOps</h2>
+
+| Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
+|-------|--------|---------|---------|---------|
+| At kunne sætte en fuld funktionel CI/CD pipeline op ved brug af Jenkins X. | Fedora Linux, Jenkins X, Kubernetes |  |  |  |
+
+<h2>IT-sikkerhed</h2>
+
+| Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
+|-------|--------|---------|---------|---------|
+|  |  |  |  |  |
