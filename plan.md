@@ -58,6 +58,8 @@ author_profile: true
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
 |-------|--------|---------|---------|---------|
 | At kunne sætte en fuld funktionel CI/CD pipeline op ved brug af Jenkins X. | Fedora Linux, Jenkins X, Kubernetes |  |  |  |
+| At kunne forklare hvordan pipelinen virker. | Serverless Jenkins GKE | At kunne forklare hvert enkelt del af pipelinen. |  |  |
+| At kende til alternativer til Jenkins X på GKE. |  |  |  |  |
 
 <h2>IT-sikkerhed</h2>
 
