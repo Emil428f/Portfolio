@@ -65,4 +65,6 @@ author_profile: true
 
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
 |-------|--------|---------|---------|---------|
-|  |  |  |  |  |
+| At kunne finde eksterne sårbarheder. |  |  |  |  |
+| At kunne finde interne sårbarheder. |  |  |  |  |
+| At kunne overvåge et netværk for trudsler | Wireshark |  |  |  |
