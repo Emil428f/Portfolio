@@ -65,6 +65,6 @@ author_profile: true
 
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
 |-------|--------|---------|---------|---------|
-| At kunne finde eksterne sårbarheder. |  |  |  |  |
-| At kunne finde interne sårbarheder. |  |  |  |  |
-| At kunne overvåge et netværk for trudsler | Wireshark |  |  |  |
+| At kunne forstå og benytte STRIDE og Attack Trees til at danne et overblik over trusler. (GENERELT)|  |  |  |  |
+| At bruge STRIDE og Attack Trees til at danne et overblik over trusler for vores projekt. |  |  |  |  |
+|  |  |  |  |
