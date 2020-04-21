@@ -66,5 +66,5 @@ author_profile: true
 | Mål | Teknik / Værktøj | Kriterier | Relevans | Evaluering |
 |-------|--------|---------|---------|---------|
 | At kunne forstå og benytte STRIDE og Attack Trees til at danne et overblik over trusler. (GENERELT)|  |  |  |  |
-| At bruge STRIDE og Attack Trees til at danne et overblik over trusler for vores projekt. |  |  |  |  |
-|  |  |  |  |
+| At bruge STRIDE og Attack Trees til at danne et overblik over trusler for vores virksomhed. |  |  |  |  |
+| At kunne evaluere trusler ud fra STRIDE, DREAD og Attack Tree modellerne. |  |  |  |
