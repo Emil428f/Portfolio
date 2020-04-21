@@ -1,7 +1,7 @@
 ---
 layout: posts
 author: Emil
-categories: [IT-sikkerhed]
+categories: [IT-Sikkerhed]
 tags: [Virksomhedsmodel, STRIDE, DREAD, Attack Tree]
 ---
 <h3>Dato: 21-04-2020</h3>
