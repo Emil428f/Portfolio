@@ -12,6 +12,9 @@ classes: wide
 | ??-??-2020 | DevOps Fundamental | Video | 2h 53m | DevOps introduktion med fokus på arkitektur automatisering, "continious delivery" og "reliabity engineering". |  |  |
 | ??-??-2020 | DevOps |  |  |  |  |  |
 | ??-??-2020 | DevOps Kubernetes kursus | Kursus | 13h 30m | Dybdegående introduktion til Kubernetes. |  |  |
+| ??-??-2020 | Kubernetes dokumentation | Video/skrift |  | Officielle dokumentation fra Google |  |  |
+| ??-??-2020 | Jenkins-X dokumentation | Video/skrift |  | Officielle dokumentation fra Jenkins. |  |  |
+|  |  |  |  |  |  |  |
 
 <h2>IT-sikkerhed</h2>
 
