@@ -15,6 +15,3 @@ I dag har jeg forsøgt at prøve at lave en DockerFile for at kunne benytte mig 
 Årsagen til dette er at Kubernetes benytter sig af Helm Charts til at lave og holde styr på containere. Det kunne være noget som hvor mange kopier af et image skal der være og hvilke porte skal hver container gøre brug af.
 
 Alt dette kan styres ved brug af VALUES.yaml som indeholder alle variablerne Helm skal bruge.
-
-
-
