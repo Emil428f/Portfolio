@@ -60,7 +60,8 @@ author_profile: true
 | At kunne sætte en fuld funktionel CI/CD pipeline op ved brug af Jenkins X. | Fedora Linux, Jenkins X, Kubernetes | Jeg skal kunne bruge pipelinen uden fejl. |  |  |
 | At kunne forklare hvordan pipelinen virker. | Serverless Jenkins GKE | At kunne forklare hvert enkelt del af pipelinen. |  |  |
 | At kende til alternativer til Jenkins X på GKE. |  | Imodsætning til Jenkins-X skal jeg finde enkelte services som tilsammen skal danne en CI/CD Pipeline. |  |  |
-| At kunne gøre brug af GitHub Actions til at build og test et image. |  |  |  |  |
+| At kunne gøre brug af GitHub Actions til at build og test et image. | GitHub |  |  |  |
+| At kunne gøre brug af GitHub Actions tilat pushe et image til GKE. | GitHub, GKE |  |  |  |
 
 <h2>IT-sikkerhed</h2>
 
@@ -70,5 +71,5 @@ author_profile: true
 | At bruge STRIDE og Attack Trees til at danne et overblik over trusler for vores virksomhed. | LucidChart |  |  |  |
 | At kunne evaluere trusler ud fra STRIDE, DREAD og Attack Tree modellerne. |  |  |  |
 | At forstå og forklare vigtigheden af at beskytte end-points. |  |  |  |  |
-| At kunne forstå forskellige måder at beskytte et end point for fysik adgang. | Fil/disk kryptering |  |  |  |
-| At kunne forklare hvad DMA er og hvad det bruges til |  | At kunne vise det frem visuelt. |  |  |
+| At kunne forklare hvad DMA er og hvad det bruges til |  | At kunne vise et praktis eksempel. |  |  |
+| At kunne forstå og forklare 'defense in depth' begrebet. |  | DiD skal indebære flere forskellige lag af sikkerhed. |  |  |
