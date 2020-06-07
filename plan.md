@@ -80,8 +80,8 @@ author_profile: true
 
 | Viden |  |  |  |  |
 |-------|--------|---------|---------|---------|
-| Forståelse for den virksomhedsmæssige aspekt af DevOps. |  |  |  |  |
-| Forståelse for den teknologiske aspekt af DevOps. |  |  |  |  |
+| Forståelse af den virksomhedsmæssige aspekt af DevOps. |  |  |  |  |
+| Forståelse af den teknologiske aspekt af DevOps. |  |  |  |  |
 
 | Færdigheder |  |  |  |  |
 |-------|--------|---------|---------|---------|
@@ -99,9 +99,10 @@ author_profile: true
 
 | Viden |  |  |  |  |
 |-------|--------|---------|---------|---------|
-| Forståelse for trusselmodellering. |  |  |  |  |
-| Forståelse for brugen af sikkerhedsattributter og sikkerheds kontroller. |  |  |  |  |
-| Forståelse for både eksterne og interne trusler. |  |  |  |  |
+| Forståelse af trusselmodellering. |  |  |  |  |
+| Forståelse af brugen af sikkerhedsattributter og sikkerheds kontroller. |  |  |  |  |
+| Forståelse af både eksterne og interne trusler. |  |  |  |  |
+| Forståelse af social engineering |  |  |  |  |
 
 | Færdigheder |  |  |  |  |
 |-------|--------|---------|---------|---------|
