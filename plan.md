@@ -73,3 +73,42 @@ author_profile: true
 | At forstå og forklare vigtigheden af at beskytte end-points. |  |  |  |  |
 | At kunne forklare hvad DMA er og hvad det bruges til |  | At kunne vise et praktis eksempel. |  |  |
 | At kunne forstå og forklare 'defense in depth' begrebet. |  | DiD skal indebære flere forskellige lag af sikkerhed. |  |  |
+
+<h1> Læringsmål </h1>
+
+<h2> DevOps </h2>
+
+| Viden |  |  |  |  |
+|-------|--------|---------|---------|---------|
+| Forståelse for den virksomhedsmæssige aspekt af DevOps. |  |  |  |  |
+| Forståelse for den teknologiske aspekt af DevOps. |  |  |  |  |
+
+| Færdigheder |  |  |  |  |
+|-------|--------|---------|---------|---------|
+| Udvikle og udrulle en app i et container miljø. |  |  |  |  |
+| Opsætte en funktionel CI/CD pipeline. |  |  |  |  |
+| Implementere 'infrastructure as code' (CM). |  |  |  |  |
+
+| Kompetencer |  |  |  |  |
+|-------|--------|---------|---------|---------|
+| Evaluere forskellige pipeline løsninger. |  |  |  |  |
+| Tilpasse workflows til andre projekter. |  |  |  |  |
+
+
+<h2> IT-sikkerhed </h2>
+
+| Viden |  |  |  |  |
+|-------|--------|---------|---------|---------|
+| Forståelse for trusselmodellering. |  |  |  |  |
+| Forståelse for brugen af sikkerhedsattributter og sikkerheds kontroller. |  |  |  |  |
+| Forståelse for både eksterne og interne trusler. |  |  |  |  |
+
+| Færdigheder |  |  |  |  |
+|-------|--------|---------|---------|---------|
+| Benytte forskellige modeller til at danne et sikkerhedsmæssigt overblik over virksomheden. |  |  |  |  |
+| Sikre enheder så de passer overens med NIST Framework. |  |  |  |  |
+| Opsætte 'Honeypots' og andre trussels detektering. |  |  |  |  |
+
+| Kompetencer |  |  |  |  |
+|-------|--------|---------|---------|---------|
+| Evaluere prioriteten af trusler i forskellige sammenhæng. |  |  |  |  |
