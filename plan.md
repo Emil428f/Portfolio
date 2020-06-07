@@ -102,13 +102,11 @@ author_profile: true
 | Forståelse for trusselmodellering. |  |  |  |  |
 | Forståelse for brugen af sikkerhedsattributter og sikkerheds kontroller. |  |  |  |  |
 | Forståelse for både eksterne og interne trusler. |  |  |  |  |
-
 | Færdigheder |  |  |  |  |
 |-------|--------|---------|---------|---------|
 | Benytte forskellige modeller til at danne et sikkerhedsmæssigt overblik over virksomheden. |  |  |  |  |
 | Sikre enheder så de passer overens med NIST Framework. |  |  |  |  |
 | Opsætte 'Honeypots' og andre trussels detektering. |  |  |  |  |
-
 | Kompetencer |  |  |  |  |
 |-------|--------|---------|---------|---------|
 | Evaluere prioriteten af trusler i forskellige sammenhæng. |  |  |  |  |
