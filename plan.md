@@ -82,13 +82,11 @@ author_profile: true
 |-------|--------|---------|---------|---------|
 | Forståelse for den virksomhedsmæssige aspekt af DevOps. |  |  |  |  |
 | Forståelse for den teknologiske aspekt af DevOps. |  |  |  |  |
-
 | Færdigheder |  |  |  |  |
 |-------|--------|---------|---------|---------|
 | Udvikle og udrulle en app i et container miljø. |  |  |  |  |
 | Opsætte en funktionel CI/CD pipeline. |  |  |  |  |
 | Implementere 'infrastructure as code' (CM). |  |  |  |  |
-
 | Kompetencer |  |  |  |  |
 |-------|--------|---------|---------|---------|
 | Evaluere forskellige pipeline løsninger. |  |  |  |  |
