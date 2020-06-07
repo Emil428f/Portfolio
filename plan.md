@@ -51,7 +51,7 @@ author_profile: true
 
 
 
-<h1>Læringsplan for andet cyklus</h1>
+<h1>Læringsplan for tredje cyklus</h1>
 
 <h2>DevOps</h2>
 
